@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rollin With My Homies</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="random_button_text">Random</string>
+    <string name="previous">Previous</string>
+!
+    <!-- Strings storing button and result text -->
+    <string name="d2_button_text">D2</string>
+    <string name="d4_button_text">D4</string>
+    <string name="d6_button_text">D6</string>
+    <string name="d8_button_text">D8</string>
+    <string name="d10_button_text">D10</string>
+    <string name="d12_button_text">D12</string>
+    <string name="d20_button_text">D20</string>
+    <string name="d2_result_old_text">0</string>
+    <string name="d2_result_text">0</string>
+    <string name="d4_result_old_text">0</string>
+    <string name="d4_result_text">0</string>
+    <string name="d6_result_old_text">0</string>
+    <string name="d6_result_text">0</string>
+    <string name="d8_result_old_text">0</string>
+    <string name="d8_result_text">0</string>
+    <string name="d10_result_old_text">0</string>
+    <string name="d10_result_text">0</string>
+    <string name="d12_result_old_text">0</string>
+    <string name="d12_result_text">0</string>
+    <string name="d20_result_old_text">0</string>
+    <string name="d20_result_text">0</string>
+    <string name="dice_column_label_text">Dice</string>
+    <string name="old_result_column_label_text">Old</string>
+    <string name="result_column_label_text">Result</string>
+</resources>
